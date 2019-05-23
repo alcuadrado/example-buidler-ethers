@@ -1,0 +1,19 @@
+{
+  "name": "example-ethers-project",
+  "version": "1.0.0",
+  "description": "Example Buidler project using ethers.js and TypeScript",
+  "author": "Patricio Palladino",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/buidler": "^1.0.0-beta.7",
+    "@nomiclabs/buidler-ethers": "^1.0.0-beta.7",
+    "@types/chai": "^4.1.7",
+    "@types/mocha": "^5.2.6",
+    "@types/node": "^12.0.2",
+    "chai": "^4.2.0",
+    "ethers": "^4.0.27",
+    "ganache-cli": "^6.4.3",
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.5"
+  }
+}
