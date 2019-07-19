@@ -1,5 +1,7 @@
 # Example Buidler project with [ethers.js](https://github.com/ethers-io/ethers.js) and TypeScript
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alcuadrado/example-buidler-ethers.svg)](https://greenkeeper.io/)
+
 This is a sample project using ethers.js and TypeScript.
 
 # Ethers.js support
